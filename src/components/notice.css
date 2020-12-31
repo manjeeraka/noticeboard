@@ -1,0 +1,7 @@
+.Notice {
+    min-width: 150px;
+    max-width: 150px;
+    border: 1px solid;
+    max-height: fit-content;
+    min-height: 50px;
+}
